@@ -1,4 +1,4 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# ¡Hola, bienvenido a mi proyecto de portafolio!
 
 ## Herramientas utilizadas:
 
@@ -14,6 +14,4 @@
 
 ### Linkedin: https://www.linkedin.com/in/leonardo-franco-nieto-evangelista-684296283/
 
-## 🔍 Deploy
-
-[https://portafolio-dun-five.vercel.app/](https://portafolio-dun-five.vercel.app/)
+## 🔍 Deploy: [https://portafolio-dun-five.vercel.app/](https://portafolio-dun-five.vercel.app/)
